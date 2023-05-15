@@ -1,0 +1,16 @@
+body{
+    background-color:rgb(160, 203, 221);
+}
+
+#score{
+ font-size: 20px;
+ font-family: 'Courier New', Courier, monospace;
+ margin-left: 50px;
+}
+
+#timer{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    float: right;
+    margin-right: 50px;
+   }
